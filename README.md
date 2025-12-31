@@ -16,7 +16,7 @@
 
 ## 🇹🇷 Hakkında
 
-**Resident Evil 3: Apocalypse Shadows – Turkish ve HD Mod**,  
+**Resident Evil 3: Apocalypse Shadows – Turkish ve HD Mods**,  
 RE3 için hazırlanmış yüksek kaliteli bir Türkçe dil yamasıdır.
 
 Amaç:
