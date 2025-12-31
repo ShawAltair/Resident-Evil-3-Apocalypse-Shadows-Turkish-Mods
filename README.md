@@ -1,3 +1,5 @@
+<div align="center">
+
 ██████╗ ███████╗███████╗██╗███╗   ██╗███████╗████████╗    ██████╗ ███████╗
 ██╔══██╗██╔════╝██╔════╝██║████╗  ██║██╔════╝╚══██╔══╝    ██╔══██╗██╔════╝
 ██████╔╝█████╗  █████╗  ██║██╔██╗ ██║█████╗     ██║       ██████╔╝█████╗  
@@ -5,75 +7,44 @@
 ██║  ██║███████╗███████╗██║██║ ╚████║███████╗   ██║       ██║  ██║███████╗
 ╚═╝  ╚═╝╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝   ╚═╝       ╚═╝  ╚═╝╚══════╝
 
-──────────────────────────────────────────────────────────────
-  Resident Evil 3: Apocalypse Shadows – Turkish Patch
-──────────────────────────────────────────────────────────────
+---
 
-GELİŞTİRİCİ: altairshaw
-PROJE TÜRÜ: Türkçe Dil Yaması / Lokalizasyon
-OYUN: Resident Evil 3: Nemesis
-DURUM: Kararlı Sürüm (Stable Release)
+# 🧟 Resident Evil 3: Apocalypse Shadows  
+### Turkish Language Patch / Localization
 
+![Status](https://img.shields.io/badge/Status-Stable%20Release-brightgreen)
+![Language](https://img.shields.io/badge/Language-Turkish-red)
+![Game](https://img.shields.io/badge/Game-Resident%20Evil%203%20Nemesis-black)
+![Build](https://img.shields.io/badge/Build-Apocalypse%20Shadows-blue)
 
-=====================
- BU YAMA HAKKINDA
-=====================
-Resident Evil 3: Apocalypse Shadows – Turkish Patch,
-Resident Evil 3 Nemesis için hazırlanmış yüksek kaliteli
-Türkçe dil yamadır.
-
-Amacı; oyunun atmosferine ve orijinal ruhuna sadık kalarak,
-menülerde, arayüzde, diyaloglarda ve oyun içeriğinde net,
-akıcı ve oyuna uygun Türkçe deneyimi sunmaktır.
+</div>
 
 
-=====================
- ÖZELLİKLER
-=====================
-• Tam kapsamlı Türkçe dil desteği
-• Profesyonel ve hikâyeye uygun çeviriler
-• Yüksek kaliteli menü ve arayüz yazıları
-• Okunabilir ve atmosferi bozmayan çeviri
-• Orijinal Resident Evil 3 hissiyatına sadık
+---
+
+## 🇹🇷 Hakkında
+
+**Resident Evil 3: Apocalypse Shadows – Turkish Patch**,  
+Resident Evil 3 Nemesis için hazırlanmış yüksek kaliteli Türkçe dil yamasıdır.
+
+Amaç:
+✔ Orijinal atmosfere sadık kalmak  
+✔ Sinematik sunumu korumak  
+✔ Akıcı, okunabilir ve oyuna uygun Türkçe deneyimi sunmak  
 
 
-=====================
- KURULUM
-=====================
-1️⃣ Yama dosyasını indirin
-2️⃣ .rar içindeki dosyaları çıkartın
-3️⃣ Dosyaları oyunun kurulu olduğu klasöre kopyalayın
-4️⃣ Gerekirse dosyaların üzerine yazılmasına izin verin
-5️⃣ Oyunu çalıştırın ve Türkçe keyfini yaşayın! 🇹🇷
+---
+
+## 🧟 Özellikler
+
+- ✔ Tam kapsamlı Türkçe dil desteği
+- ✔ Menü, arayüz ve oyun içi yazılar çevrildi
+- ✔ Lore’a uygun ve atmosferi bozmayan çeviriler
+- ✔ Yüksek okunabilirlik
+- ✔ Orijinal RE3 ruhuna sadık
 
 
-=====================
- KALDIRMA
-=====================
-Orijinal dosyalarınızı geri yükleyebilir veya
-oyun dosyalarını doğrulayabilirsiniz.
+---
 
+## 📥 Kurulum
 
-=====================
- ÖNEMLİ NOTLAR
-=====================
-• Bu proje tamamen hayran yapımıdır
-• Herhangi bir orijinal oyun dosyası içermez
-• CAPCOM ile resmi bir bağlantısı yoktur
-• Test edilmiş ve sorunsuz çalışmaktadır
-
-
-=====================
- KREDİLER
-=====================
-Proje Lideri / Çeviri:
-altairshaw
-
-
-=====================
- İLETİŞİM / DESTEK
-=====================
-Sorun yaşarsanız ModDB sayfası üzerinden bildirin.
-
-
-İyi oyunlar! 🧟
